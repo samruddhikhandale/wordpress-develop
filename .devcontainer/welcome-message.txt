@@ -1,0 +1,5 @@
+👋 Welcome to "WordPress development" in Codespaces!
+
+🛠️  Your environment is fully setup with all the required software.
+
+🚀 To get started, navigate to the URL found in the ports tab of your terminal.
